@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "transport_on_map",
+    "slug": "transport_on_map",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pas.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/pas.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pas.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pas.png"
+    }
+  }
+}

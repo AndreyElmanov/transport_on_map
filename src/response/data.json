@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "driver_name": "Иванов Иван",
+            "ts_category": "Грузовой",
+            "ts_name": "Грузовой#100",
+            "driver_phone": "+71001001010",
+            "position": {
+                "latitude":"55.758641600534766",
+                "longitude":"37.62989204921236"
+            }
+        },
+        {
+            "driver_name": "Петров Петр",
+            "ts_category": "Грузовой",
+            "ts_name": "Грузовой#110",
+            "driver_phone": "+71001101111",
+            "position": {
+                "latitude":"55.76064248550163",
+                "longitude":"37.626775353416214"
+            }
+        },
+        {
+            "driver_name": "Сидоров Иван",
+            "ts_category": "Грузовой",
+            "ts_name": "Грузовой#120",
+            "driver_phone": "+71001201212",
+            "position": {
+                "latitude":"55.76192514629742",
+                "longitude":"37.609267608583345"
+            }
+        },
+        {
+            "driver_name": "Игнатов Игнат",
+            "ts_category": "Грузовой",
+            "ts_name": "Грузовой#130",
+            "driver_phone": "+71001301313",
+            "position": {
+                "latitude":"55.75419474790686",
+                "longitude":"37.61196834914654"
+            }
+        },
+        {
+            "driver_name": "Петров Виктор",
+            "ts_category": "Пассажирский",
+            "ts_name": "Пассажирский#200",
+            "driver_phone": "+71002002020",
+            "position": {
+                "latitude":"55.746416424562064",
+                "longitude":"37.624723841684414"
+            }
+        },
+        {
+            "driver_name": "Игорев Игорь",
+            "ts_category": "Пассажирский",
+            "ts_name": "Пассажирский#210",
+            "driver_phone": "+71002102121",
+            "position": {
+                "latitude":"55.733433240510955",
+                "longitude":"37.612646241756075"
+            }
+        },
+        {
+            "driver_name": "Победов Виктор",
+            "ts_category": "Пассажирский",
+            "ts_name": "Пассажирский#220",
+            "driver_phone": "+71002202222",
+            "position": {
+                "latitude":"55.77350640972406",
+                "longitude":"37.61655604611312"
+            }
+        },
+        {
+            "driver_name": "Сивов Петр",
+            "ts_category": "Пассажирский",
+            "ts_name": "Пассажирский#230",
+            "driver_phone": "+71002302323",
+            "position": {
+                "latitude":"55.78646133511267",
+                "longitude":"37.60117900624514"
+            }
+        },
+        {
+            "driver_name": "Спецов Антов",
+            "ts_category": "Спецтранспорт",
+            "ts_name": "Спецтранспорт#300",
+            "driver_phone": "+71003003030",
+            "position": {
+                "latitude":"55.738322282350325",
+                "longitude":"37.527803382453044"
+            }
+        },
+        {
+            "driver_name": "Гвоздев Владимир",
+            "ts_category": "Спецтранспорт",
+            "ts_name": "Спецтранспорт#310",
+            "driver_phone": "+71003103131",
+            "position": {
+                "latitude":"55.64603450508484",
+                "longitude":"37.61980682337149"
+            }
+        },
+        {
+            "driver_name": "Григорьев Александр",
+            "ts_category": "Спецтранспорт",
+            "ts_name": "Спецтранспорт#320",
+            "driver_phone": "+71003203232",
+            "position": {
+                "latitude":"55.76476336614008",
+                "longitude":"37.78555310562243"
+            }
+        },
+        {
+            "driver_name": "Кондратьев Евгений",
+            "ts_category": "Спецтранспорт",
+            "ts_name": "Спецтранспорт#330",
+            "driver_phone": "+71003303333",
+            "position": {
+                "latitude":"55.86362237813733",
+                "longitude":"37.698214395623566"
+            }
+        }
+    ]
+}
