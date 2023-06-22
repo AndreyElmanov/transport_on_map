@@ -9,10 +9,8 @@ export default function DriverPage({route}: any) {
   
   const handleCall = () => Linking.openURL(`tel:${driver_phone}`);
   const handleWrite = () => {
-    const url: string = `whatsapp://send?phone=${driver_phone}&text=${'Добрый день, подскажите пожалуйста, какой номер заказа у вас сейчас в работе'}`;
-    Linking.canOpenURL(url)
-    .then(supported => supported ? Linking.openURL(url) : Alert.alert('У вас не установлен WhatsApp'))
-    .catch((e) => console.log(e))
+    Linking.openURL(`whatsapp://send?phone=${driver_phone}&text=${'Добрый день, подскажите пожалуйста, какой номер заказа у вас сейчас в работе'}`)
+    .catch(() => Alert.alert('У вас не установлен WhatsApp'));
   };
 
   return (

@@ -21,10 +21,21 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/pas.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCuEkMv_15u4xw7IN-tFkXBOgS01p-D8Ic"
+        }
+      },
+      "package": "com.andreyelmanov.transport_on_map"
     },
     "web": {
       "favicon": "./assets/pas.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8cec0c9b-6361-4c54-a827-7f51f5632ff8"
+      }
     }
   }
 }
